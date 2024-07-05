@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.backgroud{
+  background-image: url('https://th.bing.com/th/id/R.55ca063f4e02ccff81375afe9ce4ec6e?rik=nQDnZYBTTE8XmQ&riu=http%3a%2f%2fjkreativ.jegtheme.com%2finterior%2fwp-content%2fuploads%2fsites%2f7%2f2014%2f04%2fshutterstock_173902853.jpg&ehk=eZFZvO2WBVGF0%2fkbnr9BFhLIqnPU7uVkW39Jroz5crc%3d&risl=&pid=ImgRaw&r=0');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
